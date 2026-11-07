@@ -1,6 +1,6 @@
 {
  "date": "2026-11-07",
- "run": "https://github.com/mccode-dev/McCode/actions/runs/42401139169",
+ "run": "https://github.com/mccode-dev/McCode/actions/runs/42403568673",
  "columns": {
   "BEER": {
    "tests": 4,
@@ -11,7 +11,7 @@
    "failed": [
     "runci"
    ],
-   "walltime": "0:00:50",
+   "walltime": "0:00:49",
    "label": "ess_BEER_x"
   },
   "FREIA": {
@@ -21,7 +21,7 @@
    "run_err": 0,
    "value_off": 0,
    "failed": [],
-   "walltime": "0:00:26",
+   "walltime": "0:00:28",
    "label": "ess_FREIA_x"
   },
   "HEIMDAL": {
@@ -31,20 +31,17 @@
    "run_err": 0,
    "value_off": 0,
    "failed": [],
-   "walltime": "0:01:01",
+   "walltime": "0:00:54",
    "label": "ess_HEIMDAL_x"
   },
   "LOKI": {
-   "tests": 6,
+   "tests": 5,
    "no_test": 0,
    "compile_err": 0,
-   "run_err": 1,
-   "value_off": 1,
-   "failed": [
-    "LOKI_main_4",
-    "runci"
-   ],
-   "walltime": "0:00:26",
+   "run_err": 0,
+   "value_off": 0,
+   "failed": [],
+   "walltime": "0:00:30",
    "label": "ess_LOKI_x"
   },
   "MAGiC": {
@@ -54,7 +51,7 @@
    "run_err": 0,
    "value_off": 0,
    "failed": [],
-   "walltime": "0:03:03",
+   "walltime": "0:01:39",
    "label": "ess_MAGiC_x"
   },
   "ODIN": {
@@ -64,7 +61,7 @@
    "run_err": 0,
    "value_off": 0,
    "failed": [],
-   "walltime": "0:00:48",
+   "walltime": "0:00:38",
    "label": "ess_ODIN_x"
   },
   "SKADI": {
@@ -78,7 +75,7 @@
     "SKADI_modeFrontend_2",
     "runci"
    ],
-   "walltime": "0:02:50",
+   "walltime": "0:02:56",
    "label": "ess_SKADI_x"
   },
   "TBL": {
@@ -98,7 +95,7 @@
    "run_err": 0,
    "value_off": 0,
    "failed": [],
-   "walltime": "0:00:49",
+   "walltime": "0:00:59",
    "label": "ess_Template_x"
   }
  }
